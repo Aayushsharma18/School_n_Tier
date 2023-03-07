@@ -1,0 +1,12 @@
+D:\Aayush\School_N_tier\School_Buinesslogic\bin\Debug\net6.0\School_Buinesslogic.deps.json
+D:\Aayush\School_N_tier\School_Buinesslogic\bin\Debug\net6.0\School_Buinesslogic.dll
+D:\Aayush\School_N_tier\School_Buinesslogic\bin\Debug\net6.0\School_Buinesslogic.pdb
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\School_Buinesslogic.csproj.AssemblyReference.cache
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\School_Buinesslogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\School_Buinesslogic.AssemblyInfoInputs.cache
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\School_Buinesslogic.AssemblyInfo.cs
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\School_Buinesslogic.csproj.CoreCompileInputs.cache
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\School_Buinesslogic.dll
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\refint\School_Buinesslogic.dll
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\School_Buinesslogic.pdb
+D:\Aayush\School_N_tier\School_Buinesslogic\obj\Debug\net6.0\ref\School_Buinesslogic.dll

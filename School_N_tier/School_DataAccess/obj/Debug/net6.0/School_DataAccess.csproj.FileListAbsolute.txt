@@ -1,0 +1,12 @@
+D:\Aayush\School_N_tier\School_DataAccess\bin\Debug\net6.0\School_DataAccess.deps.json
+D:\Aayush\School_N_tier\School_DataAccess\bin\Debug\net6.0\School_DataAccess.dll
+D:\Aayush\School_N_tier\School_DataAccess\bin\Debug\net6.0\School_DataAccess.pdb
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\School_DataAccess.csproj.AssemblyReference.cache
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\School_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\School_DataAccess.AssemblyInfoInputs.cache
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\School_DataAccess.AssemblyInfo.cs
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\School_DataAccess.csproj.CoreCompileInputs.cache
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\School_DataAccess.dll
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\refint\School_DataAccess.dll
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\School_DataAccess.pdb
+D:\Aayush\School_N_tier\School_DataAccess\obj\Debug\net6.0\ref\School_DataAccess.dll

@@ -1,0 +1,17 @@
+D:\Aayush\School_N_tier\School_Services\bin\Debug\net6.0\School_Services.deps.json
+D:\Aayush\School_N_tier\School_Services\bin\Debug\net6.0\School_Services.dll
+D:\Aayush\School_N_tier\School_Services\bin\Debug\net6.0\School_Services.pdb
+D:\Aayush\School_N_tier\School_Services\bin\Debug\net6.0\School_Buinesslogic.dll
+D:\Aayush\School_N_tier\School_Services\bin\Debug\net6.0\School_DataAccess.dll
+D:\Aayush\School_N_tier\School_Services\bin\Debug\net6.0\School_DataAccess.pdb
+D:\Aayush\School_N_tier\School_Services\bin\Debug\net6.0\School_Buinesslogic.pdb
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\School_Services.csproj.AssemblyReference.cache
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\School_Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\School_Services.AssemblyInfoInputs.cache
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\School_Services.AssemblyInfo.cs
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\School_Services.csproj.CoreCompileInputs.cache
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\School_Services.csproj.CopyComplete
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\School_Services.dll
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\refint\School_Services.dll
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\School_Services.pdb
+D:\Aayush\School_N_tier\School_Services\obj\Debug\net6.0\ref\School_Services.dll
